@@ -1,0 +1,152 @@
+###########################
+# Rails(-centric) books
+
+##############
+# 2015
+
+- title:     "RESTful Rails Development"
+  subtitle:  Building Open Applications and Services  
+  author:    Silvia Puglisi
+  cover:     restful-rails-development.jpg
+  publisher: O'Reilly Media
+  date:      May 2015
+  pages:     350 pages
+
+- title:     "Ruby on Rails Tutorial: Learn Web Development with Rails"
+  edition:   3rd Edition
+  author:    Michael Hartl
+  cover:     ruby-on-rails-tutorial.jpg
+  publisher: Addison-Wesley Professional (Ruby Series)
+  date:      Apr 2015
+  pages:     736 pages
+
+##################
+# 2014
+
+- title:     "Rails Crash Course: A No-Nonsense Guide to Rails Development"
+  author:    Anthony Lewis
+  cover:     rails-crash-course.jpg
+  date:      Oct 2014
+  publisher: No Starch Press
+  pages:     296 pages
+
+- title:     The Rails 4 Way
+  edition:   3rd Edition
+  author:    Obie Fernandez, Kevin Faustino 
+  cover:     the-rails-4-way.jpg
+  publisher: Addison-Wesley Professional (Ruby Series)
+  date:      June 2014
+  pages:     880 pages
+
+- title:     "Engineering Software as a Service: An Agile Approach Using Cloud Computing"
+  author:    Armando Fox, David Patterson 
+  cover:     engineering-software-as-a-service.jpg
+  publisher: Strawberry Canyon
+  date:      Jan 2014
+  pages:     504 pages
+
+
+###################
+# 2013
+
+- title:     "Crafting Rails 4 Applications"
+  subtitle:  Expert Practices for Everyday Rails Development
+  author:    José Valim 
+  cover:     crafting-rails-4-applications.jpg
+  publisher: Pragmatic Bookshelf
+  date:      Nov 2013
+  pages:     200 pages
+
+- title:     "Agile Web Development with Rails 4"
+  author:    Sam Ruby, Dave Thomas, David Heinemeier Hansson
+  cover:     agile-web-development-with-rails-4.jpg
+  publisher: Pragmatic Bookshelf
+  date:      Oct 2013
+  pages:     480 pages
+
+
+###################
+# 2012
+
+- title:     "Rails Recipes: Rails 3 Edition"
+  author:    Chad Fowler
+  cover:     rails-recipes.jpg
+  publisher: Pragmatic Bookshelf
+  date:      Apr 2012
+  pages:     296 pages
+
+- title:     "The Rails View: Create a Beautiful and Maintainable User Experience"
+  author:    Bruce Williams, John Athayde
+  cover:     the-rails-view.jpg
+  publisher: Pragmatic Bookshelf
+  date:      Apr 2012
+  pages:     264 pages
+
+#####################
+# 2010
+
+- title:     "Service-Oriented Design with Ruby and Rails"
+  author:    Paul Dix
+  cover:     service-oriented-design-with-ruby-and-rails.jpg
+  publisher: Addison-Wesley Professional (Ruby Series)
+  date:      Aug 2010
+  pages:     320 pages
+
+####################
+# 2008
+
+- title:     "Practical Rails Plugins"
+  author:    Nick Plante, David Berube
+  cover:     practical-rails-plugins.jpg
+  publisher: Apress
+  date:      Sep 2008
+  pages:     512 pages
+
+- title:     Advanced Rails Recipes
+  author:    Mike Clark
+  cover:     advanced-rails-recipes.jpg
+  publisher: Pragmatic Bookshelf
+  date:      May 2008
+  pages:     464 pages
+
+#####################
+# 2007
+
+- title:     "RailsSpace: Building a Social Networking Website with Ruby on Rails"
+  author:    Michael Hartl, Aurelius Prochazka
+  cover:     railsspace.jpg
+  publisher: Addison-Wesley Professional (Ruby Series) 
+  date:      July 2007 
+  pages:     537 pages
+
+- title:     Practical Rails Social Networking Sites 
+  author:    Alan Bradburne
+  cover:     practical-rails-social-networking-sites.jpg
+  publisher: Apress
+  date:      June 2007
+  pages:     421 pages
+
+- title:     Rails Cookbook
+  author:    Rob Orsini
+  cover:     rails-cookbook.jpg
+  publisher: O'Reilly Media
+  date:      Jan 2007
+  pages:     544 pages
+
+
+###########################
+# 2006
+
+- title:     "Beginning Ruby on Rails E-Commerce"
+  author:    Jarkko Laine, Christian Hellsten
+  cover:     beginning-ruby-on-rails-e-commerce.jpg
+  publisher: Apress
+  date:      Nov 2006
+  pages:     448 pages
+
+- title:     "Ruby on Rails: Up and Running"
+  author:    Bruce Tate, Curt Hibbs
+  cover:     ruby-on-rails-up-and-running.jpg
+  publisher: O'Reilly Media
+  date:      Aug 2006
+  pages:     192 pages
