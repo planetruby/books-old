@@ -11,7 +11,7 @@
   publisher: Pragmatic Bookshelf
   date:      Nov 2015
   pages:     200 pages (est)
-  book-url:  https://pragprog.com/book/rmtpruby/text-processing-with-ruby
+  book_url:  https://pragprog.com/book/rmtpruby/text-processing-with-ruby
 
 - title:     "Ruby Performance Optimization: Why Ruby Is Slow, and How to Fix It"
   author:    Alexander Dymo
@@ -19,7 +19,7 @@
   publisher: Pragmatic Bookshelf
   date:      Nov 2015
   pages:     170 pages (est)
-  book-url:  https://pragprog.com/book/adrpo/ruby-performance-optimization
+  book_url:  https://pragprog.com/book/adrpo/ruby-performance-optimization
 
 - title:     "Learn Game Programming with Ruby: Bring Your Ideas to Life with Gosu"
   author:    Mark Sobkowicz
@@ -27,7 +27,7 @@
   publisher: Pragmatic Bookshelf
   date:      Nov 2015
   pages:     185 pages (est)
-  book-url:  https://pragprog.com/book/msgpkids/learn-game-programming-with-ruby
+  book_url:  https://pragprog.com/book/msgpkids/learn-game-programming-with-ruby
 
 - title:     "The Ruby Way: Solutions and Techniques in Ruby Programming"
   edition:   3rd Edition
@@ -36,7 +36,7 @@
   publisher: Addison-Wesley Professional (Ruby Series)
   date:      Mar 2015
   pages:     816 pages
-  book-url:  http://www.informit.com/store/ruby-way-solutions-and-techniques-in-ruby-programming-9780321714633
+  book_url:  http://www.informit.com/store/ruby-way-solutions-and-techniques-in-ruby-programming-9780321714633
 
 - title:     "Ruby Cookbook: Recipes for Object-Oriented Scripting"
   edition:   2nd Edition
@@ -45,7 +45,7 @@
   publisher: O'Reilly Media
   date:      Mar 2015
   pages:     1001 pages
-  book-url:  http://shop.oreilly.com/product/0636920032236.do
+  book_url:  http://shop.oreilly.com/product/0636920032236.do
 
 ##################
 # 2014
@@ -58,7 +58,7 @@
   publisher: Addison-Wesley Professional (Zed Shaw's Hard Way Series)
   date:      Dec 2014
   pages:     336 pages
-  book-url:  http://www.informit.com/store/learn-ruby-the-hard-way-a-simple-and-idiomatic-introduction-9780321884992
+  book_url:  http://www.informit.com/store/learn-ruby-the-hard-way-a-simple-and-idiomatic-introduction-9780321884992
 
 - title:     "Effective Ruby: 48 Specific Ways to Write Better Ruby"
   author:    Peter J. Jones
@@ -66,7 +66,7 @@
   publisher: Addison-Wesley Professional (Effective Software Development Series)
   date:      Sep 2014 
   pages:     240 pages
-  book-url:  http://www.informit.com/store/effective-ruby-48-specific-ways-to-write-better-ruby-9780133846973
+  book_url:  http://www.informit.com/store/effective-ruby-48-specific-ways-to-write-better-ruby-9780133846973
 
 - title:     "Metaprogramming Ruby 2: Program Like the Ruby Pros"
   author:    Paolo Perrotta
@@ -74,7 +74,7 @@
   publisher: Pragmatic Bookshelf
   date:      Aug 2014
   pages:     250 pages
-  book-url:  https://pragprog.com/book/ppmetr2/metaprogramming-ruby-2
+  book_url:  https://pragprog.com/book/ppmetr2/metaprogramming-ruby-2
 
 ###################
 # 2013
@@ -85,7 +85,7 @@
   publisher: No Starch Press
   date:      Nov 2013
   pages:     360 pages
-  book-url:  http://www.nostarch.com/rum
+  book_url:  http://www.nostarch.com/rum
 
 - title:     "Build Awesome Command-Line Applications in Ruby 2"
   subtitle:  Control Your Computer, Simplify Your Life
@@ -95,7 +95,7 @@
   date:      Nov 2013
   publisher: Pragmatic Bookshelf
   pages:     224 pages
-  book-url:  https://pragprog.com/book/dccar2/build-awesome-command-line-applications-in-ruby-2
+  book_url:  https://pragprog.com/book/dccar2/build-awesome-command-line-applications-in-ruby-2
 
 - title:     "Programming Ruby 1.9 & 2.0: The Pragmatic Programmers' Guide"
   edition:   4th Edition
@@ -104,7 +104,7 @@
   publisher: Pragmatic Bookshelf
   date:      Jul 2013
   pages:     888 pages
-  book-url:  https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0
+  book_url:  https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0
 
 ###################
 # 2012
@@ -118,7 +118,7 @@
   publisher: O'Reilly Media
   date:      Dec 2011
   pages:     122 pages
-  book-url:  http://shop.oreilly.com/product/0636920019664.do
+  book_url:  http://shop.oreilly.com/product/0636920019664.do
 
 - title:     "Eloquent Ruby"
   author:    Russ Olsen
@@ -126,7 +126,7 @@
   publisher: Addison-Wesley Professional (Ruby Series)
   date:      Feb 2011
   pages:     448 pages
-  book-url:  http://www.informit.com/store/eloquent-ruby-9780321584106
+  book_url:  http://www.informit.com/store/eloquent-ruby-9780321584106
 
 - title:     "Using JRuby: Bringing Ruby to Java"
   author:    Charles O Nutter, Thomas Enebo, Nick Sieger, Ola Bini, Ian Dees
@@ -134,7 +134,7 @@
   publisher: Pragmatic Bookshelf
   date:      Feb 2011
   pages:     300 pages
-  book-url:  https://pragprog.com/book/jruby/using-jruby
+  book_url:  https://pragprog.com/book/jruby/using-jruby
 
 ####################
 # 2009
@@ -145,7 +145,7 @@
   date:      June 2009
   publisher: O'Reilly Media
   pages:     336 pages
-  book-url:  http://shop.oreilly.com/product/9780596523015.do
+  book_url:  http://shop.oreilly.com/product/9780596523015.do
 
 - title:     Ruby in Practice
   author:    Jeremy McAnally, Assaf Arkin
@@ -153,7 +153,7 @@
   publisher: Manning Publications
   date:      Apr 2009
   pages:     360 pages
-  book-url:  http://www.manning.com/mcanally/
+  book_url:  http://www.manning.com/mcanally/
 
 ####################
 # 2008
@@ -164,7 +164,7 @@
   publisher: O'Reilly Media
   date:      Nov 2008
   pages:     224 pages
-  book-url:  http://shop.oreilly.com/product/9780596519650.do
+  book_url:  http://shop.oreilly.com/product/9780596519650.do
 
 - title:     "The Ruby Programming Language"
   author:    David Flanagan, Yukihiro Matsumoto
@@ -172,7 +172,7 @@
   publisher: O'Reilly Media
   date:      Feb 2008
   pages:     448 pages
-  book-url:  http://shop.oreilly.com/product/9780596516178.do
+  book_url:  http://shop.oreilly.com/product/9780596516178.do
 
 #####################
 # 2007
@@ -183,7 +183,7 @@
   publisher: O'Reilly Media
   date:      July 2007
   pages:     178 pages
-  book-url:  http://shop.oreilly.com/product/9780596514815.do
+  book_url:  http://shop.oreilly.com/product/9780596514815.do
 
 - title:     "Practical Ruby Gems"
   author:    David Berube
@@ -191,5 +191,5 @@
   publisher: Apress
   date:      Apr 2007
   pages:     271 pages
-  book-url:  http://www.apress.com/9781590598115
+  book_url:  http://www.apress.com/9781590598115
 

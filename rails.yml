@@ -11,7 +11,7 @@
   publisher: O'Reilly Media
   date:      May 2015
   pages:     350 pages
-  book-url:  http://shop.oreilly.com/product/0636920034469.do
+  book_url:  http://shop.oreilly.com/product/0636920034469.do
 
 - title:     "Ruby on Rails Tutorial: Learn Web Development with Rails"
   edition:   3rd Edition
@@ -20,7 +20,7 @@
   publisher: Addison-Wesley Professional (Ruby Series)
   date:      Apr 2015
   pages:     736 pages
-  book-url:  http://www.informit.com/store/ruby-on-rails-tutorial-learn-web-development-with-rails-9780134077703
+  book_url:  http://www.informit.com/store/ruby-on-rails-tutorial-learn-web-development-with-rails-9780134077703
 
 ##################
 # 2014
@@ -31,7 +31,7 @@
   date:      Oct 2014
   publisher: No Starch Press
   pages:     296 pages
-  book-url:  http://www.nostarch.com/railscrashcourse
+  book_url:  http://www.nostarch.com/railscrashcourse
 
 - title:     The Rails 4 Way
   edition:   3rd Edition
@@ -40,7 +40,7 @@
   publisher: Addison-Wesley Professional (Ruby Series)
   date:      June 2014
   pages:     880 pages
-  book-url:  http://www.informit.com/store/rails-4-way-9780321944276
+  book_url:  http://www.informit.com/store/rails-4-way-9780321944276
 
 - title:     "Engineering Software as a Service: An Agile Approach Using Cloud Computing"
   author:    Armando Fox, David Patterson 
@@ -48,7 +48,7 @@
   publisher: Strawberry Canyon
   date:      Jan 2014
   pages:     504 pages
-  book-url:  http://www.saasbook.info
+  book_url:  http://www.saasbook.info
 
 ###################
 # 2013
@@ -60,7 +60,7 @@
   publisher: Pragmatic Bookshelf
   date:      Nov 2013
   pages:     200 pages
-  book-url:  https://pragprog.com/book/jvrails2/crafting-rails-4-applications
+  book_url:  https://pragprog.com/book/jvrails2/crafting-rails-4-applications
 
 - title:     "Agile Web Development with Rails 4"
   author:    Sam Ruby, Dave Thomas, David Heinemeier Hansson
@@ -68,7 +68,7 @@
   publisher: Pragmatic Bookshelf
   date:      Oct 2013
   pages:     480 pages
-  book-url:  https://pragprog.com/book/rails4/agile-web-development-with-rails-4
+  book_url:  https://pragprog.com/book/rails4/agile-web-development-with-rails-4
 
 ###################
 # 2012
@@ -79,7 +79,7 @@
   publisher: Pragmatic Bookshelf
   date:      Apr 2012
   pages:     296 pages
-  book-url:  https://pragprog.com/book/rr2/rails-recipes
+  book_url:  https://pragprog.com/book/rr2/rails-recipes
 
 - title:     "The Rails View: Create a Beautiful and Maintainable User Experience"
   author:    Bruce Williams, John Athayde
@@ -87,7 +87,7 @@
   publisher: Pragmatic Bookshelf
   date:      Apr 2012
   pages:     264 pages
-  book-url:  https://pragprog.com/book/warv/the-rails-view
+  book_url:  https://pragprog.com/book/warv/the-rails-view
 
 #####################
 # 2010
@@ -98,7 +98,7 @@
   publisher: Addison-Wesley Professional (Ruby Series)
   date:      Aug 2010
   pages:     320 pages
-  book-url:  http://www.informit.com/store/service-oriented-design-with-ruby-and-rails-9780321659361
+  book_url:  http://www.informit.com/store/service-oriented-design-with-ruby-and-rails-9780321659361
 
 ####################
 # 2008
@@ -109,7 +109,7 @@
   publisher: Apress
   date:      Sep 2008
   pages:     512 pages
-  book-url:  http://www.apress.com/9781590599938
+  book_url:  http://www.apress.com/9781590599938
 
 - title:     Advanced Rails Recipes
   author:    Mike Clark
@@ -117,7 +117,7 @@
   publisher: Pragmatic Bookshelf
   date:      May 2008
   pages:     464 pages
-  book-url:  https://pragprog.com/book/fr_arr/advanced-rails-recipes
+  book_url:  https://pragprog.com/book/fr_arr/advanced-rails-recipes
 
 #####################
 # 2007
@@ -128,7 +128,7 @@
   publisher: Addison-Wesley Professional (Ruby Series) 
   date:      July 2007 
   pages:     537 pages
-  book-url:  http://www.informit.com/store/railsspace-building-a-social-networking-website-with-9780321480798
+  book_url:  http://www.informit.com/store/railsspace-building-a-social-networking-website-with-9780321480798
 
 - title:     Practical Rails Social Networking Sites 
   author:    Alan Bradburne
@@ -136,7 +136,7 @@
   publisher: Apress
   date:      June 2007
   pages:     421 pages
-  book-url:  http://www.apress.com/9781590598412
+  book_url:  http://www.apress.com/9781590598412
 
 - title:     "Rails Cookbook: Recipes for Rapid Web Development with Ruby"
   author:    Rob Orsini
@@ -144,7 +144,7 @@
   publisher: O'Reilly Media
   date:      Jan 2007
   pages:     544 pages
-  book-url:  http://shop.oreilly.com/product/9780596527310.do
+  book_url:  http://shop.oreilly.com/product/9780596527310.do
 
 ###########################
 # 2006
@@ -155,7 +155,7 @@
   publisher: Apress
   date:      Nov 2006
   pages:     448 pages
-  book-url:  http://www.apress.com/9781590597361
+  book_url:  http://www.apress.com/9781590597361
 
 - title:     "Ruby on Rails: Up and Running - Lightning Fast Web Development"
   author:    Bruce Tate, Curt Hibbs
@@ -163,4 +163,4 @@
   publisher: O'Reilly Media
   date:      Aug 2006
   pages:     192 pages
-  book-url:  http://shop.oreilly.com/product/9780596101329.do
+  book_url:  http://shop.oreilly.com/product/9780596101329.do
