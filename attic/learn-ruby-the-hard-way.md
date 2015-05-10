@@ -1,15 +1,6 @@
 
-<!--
-layout: book
-title:  "Learn Ruby the Hard Way - A Simple and Idiomatic Introduction to the Imaginative World Of Computational Thinking with Code by Zed Shaw"
-date:   2015-01-24 14:14
-cover:  learn-ruby-the-hard-way.jpg
--->
+## Learn Ruby the Hard Way - A Simple and Idiomatic Introduction to the Imaginative World Of Computational Thinking with Code by Zed Shaw
 
-
-## {{page.title}}
-
-{% include cover.html %}
 
 Learn Ruby the Hard Way let's you
 learn Ruby by working through fifty-two exercises

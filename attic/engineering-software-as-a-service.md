@@ -1,15 +1,6 @@
 
-<!--
-layout: book
-title:  "Engineering Software as a Service: An Agile Approach Using Cloud Computing by Armando Fox 'n' David Patterson"
-date:   2015-01-24 13:13
-cover:  engineering-software-as-a-service.jpg
--->
+## Engineering Software as a Service: An Agile Approach Using Cloud Computing by Armando Fox 'n' David Patterson
 
-
-## {{page.title}}
-
-{% include cover.html %}
 
 Engineering Software as a Service: An Agile Approach Using Cloud Computing
 includes chapters on:

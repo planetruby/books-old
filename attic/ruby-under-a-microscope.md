@@ -1,15 +1,6 @@
 
-<!--
-layout: book
-title:  "Ruby Under a Microscope - An Illustrated Guide to Ruby Internals by Pat Shaughnessy"
-date:   2015-01-24 10:10
-cover:  ruby-under-a-microscope.png
--->
+## Ruby Under a Microscope - An Illustrated Guide to Ruby Internals by Pat Shaughnessy
 
-
-## {{page.title}}
-
-{% include cover.html %}
 
 Ruby Under a Microscope includes chapters on how the Ruby machinery
 works under the hood with many diagrams and hands-on examples on:

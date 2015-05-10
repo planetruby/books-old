@@ -8,7 +8,7 @@
 - title:     "The Ruby Way: Solutions and Techniques in Ruby Programming"
   edition:   3rd Edition
   author:    Hal Fulton, André Arko
-  cover:     the-ruby-way.jpg
+  cover:     2015/the-ruby-way.jpg
   publisher: Addison-Wesley Professional (Ruby Series)
   date:      Mar 2015
   pages:     816 pages
@@ -16,7 +16,7 @@
 - title:     Ruby Cookbook
   edition:   2nd Edition
   author:    Lucas Carlson, Leonard Richardson
-  cover:     ruby-cookbook.jpg
+  cover:     2015/ruby-cookbook.jpg
   publisher: O'Reilly Media
   date:      Mar 2015
   pages:     1001 pages
@@ -28,14 +28,14 @@
   subtitle:  A Simple and Idiomatic Introduction to the Imaginative World Of Computational Thinking with Code
   edition:   3rd Edition
   author:    Zed Shaw
-  cover:     learn-ruby-the-hard-way.jpg
+  cover:     2014/learn-ruby-the-hard-way.jpg
   publisher: Addison-Wesley Professional (Zed Shaw's Hard Way Series)
   date:      Dec 2014
   pages:     336 pages
 
 - title:     "Effective Ruby: 48 Specific Ways to Write Better Ruby"
   author:    Peter J. Jones
-  cover:     effective-ruby.jpg
+  cover:     2014/effective-ruby.jpg
   publisher: Addison-Wesley Professional (Effective Software Development Series)
   date:      Sep 2014 
   pages:     240 pages
@@ -43,7 +43,7 @@
 - title:     "Metaprogramming Ruby 2"
   subtitle:  Program Like the Ruby Pros
   author:    Paolo Perrotta
-  cover:     metaprogramming-ruby-2.jpg
+  cover:     2014/metaprogramming-ruby-2.jpg
   publisher: Pragmatic Bookshelf
   date:      Aug 2014
   pages:     250 pages
@@ -54,7 +54,7 @@
 
 - title:     "Ruby Under a Microscope - An Illustrated Guide to Ruby Internals"
   author:    Pat Shaughnessy"
-  cover:     ruby-under-a-microscope.png
+  cover:     2013/ruby-under-a-microscope.png
   publisher: No Starch Press
   date:      Nov 2013
   pages:     360 pages
@@ -63,7 +63,7 @@
   subtitle:  Control Your Computer, Simplify Your Life
   edition:   2nd Edition  
   author:    David B. Copeland 
-  cover:     build-command-line-apps-in-ruby.jpg
+  cover:     2013/build-command-line-apps-in-ruby.jpg
   date:      Nov 2013
   publisher: Pragmatic Bookshelf
   pages:     224 pages
@@ -71,7 +71,7 @@
 - title:     "Programming Ruby 1.9 & 2.0: The Pragmatic Programmers' Guide"
   edition:   4th Edition
   author:    Dave Thomas, Andy Hunt, Chad Fowler
-  cover:     programming-ruby.jpg
+  cover:     2013/programming-ruby.jpg
   publisher: Pragmatic Bookshelf
   date:      Jul 2013
   pages:     888 pages
@@ -84,21 +84,21 @@
 
 - title:     "Sinatra: Up and Running"
   author:    Alan Harris, Konstantin Haase
-  cover:     sinatra-up-and-running.jpg
+  cover:     2011/sinatra-up-and-running.jpg
   publisher: O'Reilly Media
   date:      Dec 2011
   pages:     122 pages
 
 - title:     "Eloquent Ruby"
   author:    Russ Olsen
-  cover:     eloquent-ruby.jpg
+  cover:     2011/eloquent-ruby.jpg
   publisher: Addison-Wesley Professional (Ruby Series)
   date:      Feb 2011
   pages:     448 pages
 
 - title:     "Using JRuby: Bringing Ruby to Java"
   author:    Charles O Nutter, Thomas Enebo, Nick Sieger, Ola Bini, Ian Dees
-  cover:     using-jruby.jpg
+  cover:     2011/using-jruby.jpg
   publisher: Pragmatic Bookshelf
   date:      Feb 2011
   pages:     300 pages
@@ -109,14 +109,14 @@
 
 - title:     "Ruby Best Practices"
   author:    Gregory T Brown
-  cover:     ruby-best-practices.jpg
+  cover:     2009/ruby-best-practices.jpg
   date:      June 2009
   publisher: O'Reilly Media
   pages:     336 pages
 
 - title:     Ruby in Practice
   author:    Jeremy McAnally, Assaf Arkin
-  cover:     ruby-in-practice.jpg
+  cover:     2009/ruby-in-practice.jpg
   publisher: Manning Publications
   date:      Apr 2009
   pages:     360 pages
@@ -127,14 +127,14 @@
 
 - title:     "JRuby Cookbook"
   author:    Justin Edelson, Henry Liu
-  cover:     jruby-cookbook.jpg
+  cover:     2008/jruby-cookbook.jpg
   publisher: O'Reilly Media
   date:      Nov 2008
   pages:     224 pages
 
 - title:     "The Ruby Programming Language"
   author:    David Flanagan, Yukihiro Matsumoto
-  cover:     the-ruby-programming-language.jpg
+  cover:     2008/the-ruby-programming-language.jpg
   publisher: O'Reilly Media
   date:      Feb 2008
   pages:     448 pages
@@ -145,14 +145,14 @@
 
 - title:     "Ruby Pocket Reference"
   author:    Michael James Fitzgerald
-  cover:     ruby-pocket-reference.jpg
+  cover:     2007/ruby-pocket-reference.jpg
   publisher: O'Reilly Media
   date:      July 2007
   pages:     178 pages
 
 - title:     "Practical Ruby Gems"
   author:    David Berube
-  cover:     practical-ruby-gems.jpg
+  cover:     2007/practical-ruby-gems.jpg
   publisher: Apress
   date:      Apr 2007
   pages:     271 pages
