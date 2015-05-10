@@ -1,0 +1,27 @@
+#####################################
+# Ruby Java Books / JRuby Books
+#
+
+
+#############
+# 2011
+
+- title:     "Using JRuby: Bringing Ruby to Java"
+  author:    Charles O Nutter, Thomas Enebo, Nick Sieger, Ola Bini, Ian Dees
+  cover:     2011/using-jruby.jpg
+  publisher: Pragmatic Bookshelf
+  date:      Feb 2011
+  pages:     300 pages
+  book_url:  https://pragprog.com/book/jruby/using-jruby
+
+####################
+# 2008
+
+- title:     "JRuby Cookbook"
+  author:    Justin Edelson, Henry Liu
+  cover:     2008/jruby-cookbook.jpg
+  publisher: O'Reilly Media
+  date:      Nov 2008
+  pages:     224 pages
+  book_url:  http://shop.oreilly.com/product/9780596519650.do
+

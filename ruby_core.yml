@@ -1,0 +1,37 @@
+#########################################
+# Inside Ruby Books / Core Ruby Books
+#
+
+##############
+# 2015
+
+- title:     "Ruby Performance Optimization: Why Ruby Is Slow, and How to Fix It"
+  author:    Alexander Dymo
+  cover:     2015/ruby-performance-optimization.jpg
+  publisher: Pragmatic Bookshelf
+  date:      Nov 2015
+  pages:     170 pages (est)
+  book_url:  https://pragprog.com/book/adrpo/ruby-performance-optimization
+
+##################
+# 2014
+
+- title:     "Metaprogramming Ruby 2: Program Like the Ruby Pros"
+  author:    Paolo Perrotta
+  cover:     2014/metaprogramming-ruby-2.jpg
+  publisher: Pragmatic Bookshelf
+  date:      Aug 2014
+  pages:     250 pages
+  book_url:  https://pragprog.com/book/ppmetr2/metaprogramming-ruby-2
+
+###################
+# 2013
+
+- title:     "Ruby Under a Microscope - An Illustrated Guide to Ruby Internals"
+  author:    Pat Shaughnessy"
+  cover:     2013/ruby-under-a-microscope.png
+  publisher: No Starch Press
+  date:      Nov 2013
+  pages:     360 pages
+  book_url:  http://www.nostarch.com/rum
+

@@ -4,15 +4,6 @@
 ##############
 # 2015
 
-- title:     "RESTful Rails Development"
-  subtitle:  Building Open Applications and Services  
-  author:    Silvia Puglisi
-  cover:     2015/restful-rails-development.jpg
-  publisher: O'Reilly Media
-  date:      May 2015
-  pages:     350 pages
-  book_url:  http://shop.oreilly.com/product/0636920034469.do
-
 - title:     "Ruby on Rails Tutorial: Learn Web Development with Rails"
   edition:   3rd Edition
   author:    Michael Hartl
@@ -33,15 +24,6 @@
   pages:     296 pages
   book_url:  http://www.nostarch.com/railscrashcourse
 
-- title:     The Rails 4 Way
-  edition:   3rd Edition
-  author:    Obie Fernandez, Kevin Faustino 
-  cover:     2014/the-rails-4-way.jpg
-  publisher: Addison-Wesley Professional (Ruby Series)
-  date:      June 2014
-  pages:     880 pages
-  book_url:  http://www.informit.com/store/rails-4-way-9780321944276
-
 - title:     "Engineering Software as a Service: An Agile Approach Using Cloud Computing"
   author:    Armando Fox, David Patterson 
   cover:     2014/engineering-software-as-a-service.jpg
@@ -53,15 +35,6 @@
 ###################
 # 2013
 
-- title:     "Crafting Rails 4 Applications"
-  subtitle:  Expert Practices for Everyday Rails Development
-  author:    José Valim 
-  cover:     2013/crafting-rails-4-applications.jpg
-  publisher: Pragmatic Bookshelf
-  date:      Nov 2013
-  pages:     200 pages
-  book_url:  https://pragprog.com/book/jvrails2/crafting-rails-4-applications
-
 - title:     "Agile Web Development with Rails 4"
   author:    Sam Ruby, Dave Thomas, David Heinemeier Hansson
   cover:     2013/agile-web-development-with-rails-4.jpg
@@ -70,54 +43,6 @@
   pages:     480 pages
   book_url:  https://pragprog.com/book/rails4/agile-web-development-with-rails-4
 
-###################
-# 2012
-
-- title:     "Rails Recipes: Rails 3 Edition"
-  author:    Chad Fowler
-  cover:     2012/rails-recipes.jpg
-  publisher: Pragmatic Bookshelf
-  date:      Apr 2012
-  pages:     296 pages
-  book_url:  https://pragprog.com/book/rr2/rails-recipes
-
-- title:     "The Rails View: Create a Beautiful and Maintainable User Experience"
-  author:    Bruce Williams, John Athayde
-  cover:     2012/the-rails-view.jpg
-  publisher: Pragmatic Bookshelf
-  date:      Apr 2012
-  pages:     264 pages
-  book_url:  https://pragprog.com/book/warv/the-rails-view
-
-#####################
-# 2010
-
-- title:     "Service-Oriented Design with Ruby and Rails"
-  author:    Paul Dix
-  cover:     2010/service-oriented-design-with-ruby-and-rails.jpg
-  publisher: Addison-Wesley Professional (Ruby Series)
-  date:      Aug 2010
-  pages:     320 pages
-  book_url:  http://www.informit.com/store/service-oriented-design-with-ruby-and-rails-9780321659361
-
-####################
-# 2008
-
-- title:     "Practical Rails Plugins"
-  author:    Nick Plante, David Berube
-  cover:     2008/practical-rails-plugins.jpg
-  publisher: Apress
-  date:      Sep 2008
-  pages:     512 pages
-  book_url:  http://www.apress.com/9781590599938
-
-- title:     Advanced Rails Recipes
-  author:    Mike Clark
-  cover:     2008/advanced-rails-recipes.jpg
-  publisher: Pragmatic Bookshelf
-  date:      May 2008
-  pages:     464 pages
-  book_url:  https://pragprog.com/book/fr_arr/advanced-rails-recipes
 
 #####################
 # 2007
@@ -137,14 +62,6 @@
   date:      June 2007
   pages:     421 pages
   book_url:  http://www.apress.com/9781590598412
-
-- title:     "Rails Cookbook: Recipes for Rapid Web Development with Ruby"
-  author:    Rob Orsini
-  cover:     2007/rails-cookbook.jpg
-  publisher: O'Reilly Media
-  date:      Jan 2007
-  pages:     544 pages
-  book_url:  http://shop.oreilly.com/product/9780596527310.do
 
 ###########################
 # 2006

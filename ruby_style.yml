@@ -1,0 +1,49 @@
+################################
+# Ruby Style / Design Books
+#
+
+##############
+# 2015
+
+- title:     "The Ruby Way: Solutions and Techniques in Ruby Programming"
+  edition:   3rd Edition
+  author:    Hal Fulton, André Arko
+  cover:     2015/the-ruby-way.jpg
+  publisher: Addison-Wesley Professional (Ruby Series)
+  date:      Mar 2015
+  pages:     816 pages
+  book_url:  http://www.informit.com/store/ruby-way-solutions-and-techniques-in-ruby-programming-9780321714633
+
+##################
+# 2014
+
+- title:     "Effective Ruby: 48 Specific Ways to Write Better Ruby"
+  author:    Peter J. Jones
+  cover:     2014/effective-ruby.jpg
+  publisher: Addison-Wesley Professional (Effective Software Development Series)
+  date:      Sep 2014 
+  pages:     240 pages
+  book_url:  http://www.informit.com/store/effective-ruby-48-specific-ways-to-write-better-ruby-9780133846973
+
+#############
+# 2011
+
+- title:     "Eloquent Ruby"
+  author:    Russ Olsen
+  cover:     2011/eloquent-ruby.jpg
+  publisher: Addison-Wesley Professional (Ruby Series)
+  date:      Feb 2011
+  pages:     448 pages
+  book_url:  http://www.informit.com/store/eloquent-ruby-9780321584106
+
+####################
+# 2009
+
+- title:     "Ruby Best Practices"
+  author:    Gregory T Brown
+  cover:     2009/ruby-best-practices.jpg
+  date:      June 2009
+  publisher: O'Reilly Media
+  pages:     336 pages
+  book_url:  http://shop.oreilly.com/product/9780596523015.do
+
